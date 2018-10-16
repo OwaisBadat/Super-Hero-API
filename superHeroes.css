@@ -28,3 +28,21 @@ h1 {
   border-color: white;
   background-color: white;
 }
+
+#selectedMovie {
+  float:left;
+  width 20%;
+  list-style: none
+}
+
+#infoList {
+  margin-top: 20%;
+  font-size: 20;
+
+}
+
+#movieInfoContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
